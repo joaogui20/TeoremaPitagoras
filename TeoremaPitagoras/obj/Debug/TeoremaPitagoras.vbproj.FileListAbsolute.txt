@@ -1,0 +1,10 @@
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\TeoremaPitagoras.exe.config
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\TeoremaPitagoras.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\TeoremaPitagoras.pdb
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\bin\Debug\TeoremaPitagoras.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.frmPitagoras.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.Resources.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.vbproj.GenerateResource.Cache
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\TeoremaPitagoras\TeoremaPitagoras\obj\Debug\TeoremaPitagoras.pdb
